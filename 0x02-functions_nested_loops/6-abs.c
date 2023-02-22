@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _abs - prints the absolute value of an integrer
+ * _abs - prints the absolute value of an integrer
  *
  * @n: n is the integer
  *
