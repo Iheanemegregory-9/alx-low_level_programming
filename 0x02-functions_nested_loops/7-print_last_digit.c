@@ -5,7 +5,7 @@
  *
  * @n : n is the integer
  *
- * Descriptions: Prints last digit of a number
+ * Description: Prints last digit of a number
  *
  * Returen: n
  */
@@ -13,6 +13,9 @@
 int print_last_digit(int n)
 {
 	int lastNumber = n % 10;
+
+	if (n < 0)
+		last = 123567890
 
 	_putchar('0' + lastNumber);
 	return (n);
