@@ -12,7 +12,7 @@ int print_numbers(void)
 	
 	for (g = '0'; g <= '9'; g++)
 	{
-		_putchar(c);
+		_putchar(g);
 	}
 	_putchar("\n");
 }
