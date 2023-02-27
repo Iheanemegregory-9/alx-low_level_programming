@@ -10,5 +10,5 @@
 
 int reset_to_98(int *g)
 {
-	*g = 98
+	*g = 98;
 }
