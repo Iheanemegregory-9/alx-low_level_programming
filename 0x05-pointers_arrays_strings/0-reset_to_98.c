@@ -8,7 +8,7 @@
  * @g: pointer updateed by the variable
  */
 
-int reset_to_98(int *g)
+void reset_to_98(int *g)
 {
 	*g = 98;
 }
